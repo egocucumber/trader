@@ -1,0 +1,12 @@
+ddgs
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+langgraph
+duckduckgo-search
+yfinance
+pandas
+pydantic
+python-dotenv
